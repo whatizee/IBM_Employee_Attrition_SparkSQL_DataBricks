@@ -1,4 +1,4 @@
-```markdown
+
 # IBM Employee Attrition Analysis  
 
 This repository provides an in-depth analysis of the IBM Employee Attrition dataset using **Spark SQL** in **Databricks**. The project identifies critical factors contributing to employee turnover, enabling businesses to create effective retention strategies.  
@@ -58,4 +58,4 @@ Feel free to fork this repository, add your insights, or suggest improvements. C
 For questions or feedback, feel free to connect with me on LinkedIn or email me directly.  
 
 Let’s dive into data-driven decision-making! 🚀  
-```
+
